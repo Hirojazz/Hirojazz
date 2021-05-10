@@ -9,6 +9,4 @@ Here are some ideas to get you started :
 - ⚡ Fun fact: I'm noob
 -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xditya&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="xditya" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xditya&show_icons=true&theme=tokyonight&locale=en" alt="xditya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hirojazz&show_icons=true&theme=tokyonight&locale=en" alt="Hirojazz" /></p>
